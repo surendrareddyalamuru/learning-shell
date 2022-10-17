@@ -1,2 +1,2 @@
 # learning-shell
-shell scripting
+shell scripting concept
