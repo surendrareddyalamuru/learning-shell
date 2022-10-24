@@ -1,5 +1,6 @@
 a=10
-
+b=xyz
+c=true
 
 
 echo value of a = $a
