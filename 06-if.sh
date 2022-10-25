@@ -1,4 +1,4 @@
-a=100
+a=$a
 
 if [ $a -gt 10 ]
 then
