@@ -8,7 +8,7 @@ else
 fi
 
 x="abc"
-
-if [ $x == "abc"]; then
+if [ $x == "abc"]
+then
   echo yes both are equal
 fi
